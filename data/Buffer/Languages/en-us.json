@@ -86,6 +86,24 @@
             "dash_juice": "Dash juice",
             "imunizer": "Imunizer"
         },
+        "stats": {
+            "title": "Stats",
+            "bonus_attack": "Bonus attack",
+            "bonus_defence": "Bonus defence",
+            "element": {
+                "title": "Element",
+                "none": "None",
+                "fire": "Fire",
+                "water": "Water",
+                "ice": "Ice",
+                "electric": "Electric",
+                "dragon": "Dragon",
+                "poison": "Poison",
+                "paralyse": "Paralyse",
+                "sleep": "Sleep",
+                "blast": "Blast"
+            }
+        },
         "unlimited_sharpness": "Unlimited Sharpness"
     },
 
