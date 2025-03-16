@@ -54,10 +54,13 @@ local Module = {
             bonus_defence = -1,
             element = -1,
         },
-        
+
         unlimited_sharpness = false,
         unlimited_consumables = false,
-        unlimited_slingers = false
+        unlimited_slingers = false,
+    },
+    old = {
+        stats = {}
     }
 }
 
