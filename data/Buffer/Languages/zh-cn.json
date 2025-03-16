@@ -88,7 +88,9 @@
             "dash_juice": "强走药",
             "imunizer": "免疫剂"
         },
-        "unlimited_sharpness": "无限锋利度"
+        "unlimited_sharpness": "无限锋利度",
+        "unlimited_consumables": "无限消耗品",
+        "unlimited_slingers": "无限弹药"
     },
     "great_sword": {
         "title": "大剑",
@@ -138,7 +140,8 @@
         "instant_charge": "立即蓄力"
     },
     "hunting_horn": {
-        "title": "狩猎笛"
+        "title": "狩猎笛",
+        "unlimited_echo_bubbles": "Unlimited echo bubbles"
     },
     "lance": {
         "title": "长枪",
@@ -168,14 +171,20 @@
         "max_special_ammo": "无限特殊弹药",
         "max_rapid_shot": "速射最大连发数",
         "max_eagle_shot": "无限特殊射击",
-        "instant_eagle_shot_charge": "特殊射击无需蓄力"
+        "instant_eagle_shot_charge": "特殊射击无需蓄力",
+        "unlimited_ammo": "无限弹药",
+        "no_reload": "无需装填",
+        "no_recoil": "无后座力"
     },
     "heavy_bowgun": {
         "title": "重弩",
         "max_special_ammo": "无限特殊弹药",
         "max_wyvern_howl": "无限龙热机关龙弹",
         "max_gatling_hits": "最大命中数",
-        "max_gatling_hits_tooltip": "仅对龙热穿甲弹生效" 
+        "max_gatling_hits_tooltip": "仅对龙热穿甲弹生效",
+        "unlimited_ammo": "无限弹药",
+        "no_reload": "无需装填",
+        "no_recoil": "无后座力"
     },
     "charge_blade": {
         "title": "盾斧",

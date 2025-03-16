@@ -89,7 +89,9 @@
             "dash_juice": "Dash Saft",
             "imunizer": "Imunizierer"
         },
-        "unlimited_sharpness": "Unbegrenzte Schaerfe"
+        "unlimited_sharpness": "Unbegrenzte Schaerfe",
+        "unlimited_consumables": "Unbegrenzte Verbrauchsmaterialien",
+        "unlimited_slingers": "Unbegrenzte Schleudermunition"
     },
 
     "great_sword": {
@@ -141,7 +143,8 @@
         "instant_charge": "Sofortige Aufladung"
     },
     "hunting_horn": {
-        "title": "Jagdhorn"
+        "title": "Jagdhorn",
+        "unlimited_echo_bubbles": "Unlimited echo bubbles"
     },
     
     "lance": {
@@ -173,14 +176,20 @@
         "max_special_ammo": "Maximale Spezialmunition",
         "max_rapid_shot": "Maximaler Schnellschuss",
         "max_eagle_shot": "Max Adler Schuss",
-        "instant_eagle_shot_charge": "Maximale Adlerschussladung"
+        "instant_eagle_shot_charge": "Maximale Adlerschussladung",
+        "unlimited_ammo": "Unendliche Munition",
+        "no_reload": "Kein Nachladen",
+        "no_recoil": "Kein Rueckstoss"
     },
     "heavy_bowgun": {
         "title": "Schweres Bogengewehr",
         "max_special_ammo": "Maximale Spezialmunition",
         "max_wyvern_howl": "Max Wyvern heulen",
         "max_gatling_hits": "Maximale Gattertreffer",
-        "max_gatling_hits_tooltip": "Betrifft nur Wyvernherz-Zuendung"
+        "max_gatling_hits_tooltip": "Betrifft nur Wyvernherz-Zuendung",
+        "unlimited_ammo": "Unendliche Munition",
+        "no_reload": "Kein Nachladen",
+        "no_recoil": "Kein Rueckstoss"
     },
 
     "charge_blade": {

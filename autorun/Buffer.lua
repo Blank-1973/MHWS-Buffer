@@ -1,4 +1,4 @@
-local version = "0.0.5"
+local version = "0.0.6"
 
 local isWindowOpen, wasOpen = false, false
 
@@ -17,7 +17,7 @@ local greatSword = require("Buffer.Modules.GreatSword")
 local dualBlades = require("Buffer.Modules.DualBlades")
 local longSword = require("Buffer.Modules.LongSword")
 local hammer = require("Buffer.Modules.Hammer")
--- local huntingHorn = require("Buffer.Modules.HuntingHorn")
+local huntingHorn = require("Buffer.Modules.HuntingHorn")
 local lance = require("Buffer.Modules.Lance")
 local gunlance = require("Buffer.Modules.Gunlance")
 local switchAxe = require("Buffer.Modules.SwitchAxe")
@@ -34,7 +34,7 @@ local modules = {
     dualBlades,
     longSword,
     hammer,
-    -- huntingHorn,
+    huntingHorn,
     lance,
     gunlance,
     switchAxe,
