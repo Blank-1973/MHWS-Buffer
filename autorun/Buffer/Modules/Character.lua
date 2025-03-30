@@ -617,7 +617,6 @@ function Module.draw()
         -- changed, Module.data.hyper_armor = imgui.checkbox(language.get(languagePrefix .. "hyper_armor"), Module.data.hyper_armor)
         -- any_changed = any_changed or changed
 
-        languagePrefix = Module.title .. "."
         languagePrefix = Module.title .. ".stats."
         if imgui.tree_node(language.get(languagePrefix .. "title")) then
 
