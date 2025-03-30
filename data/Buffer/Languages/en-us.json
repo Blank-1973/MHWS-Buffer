@@ -102,6 +102,11 @@
                 "paralyse": "Paralyse",
                 "sleep": "Sleep",
                 "blast": "Blast"
+            },
+            "mantles": {
+                "title": "Mantles",
+                "instant_cooldown": "Instant cooldown",
+                "unlimited_duration": "Unlimited duration"
             }
         },
         "unlimited_sharpness": "Unlimited Sharpness",
