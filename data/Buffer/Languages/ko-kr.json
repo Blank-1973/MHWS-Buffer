@@ -158,12 +158,17 @@
             "instant_cooldown": "복장 즉시 쿨다운",
             "unlimited_duration": "복장 지속시간 무제한"
         },
+        "meals": {
+            "title": "식사",
+            "no_ticket_consumption": "티켓 소모 없음",
+            "no_ingredient_consumption": "식재료 소모 없음",
+            "unlimited_timer": "식사 효과 무한"
+        },
         "invincible": "무적",
         "invincible_tooltip": "공격 피해, 움츠리기, 움찔, 상태 이상을 받지 않습니다.",
         "unlimited_sharpness": "예리도 무한",
         "unlimited_consumables": "소비 아이템 무한",
-        "unlimited_slingers": "슬링어 탄약 무한",
-        "unlimited_meal_timer": "식사 효과 무한"
+        "unlimited_slingers": "슬링어 탄약 무한"
     },
     "great_sword": {
         "title": "대검",
@@ -252,8 +257,8 @@
         "no_recoil": "반동 없음",
         "no_knockback": "움찔 없음",
         "shell_level": "탄 레벨",
-        "all_rapid_fire": "모든 종류 속사",
-        "full_auto": "Full auto (*)"
+        "all_rapid_fire": "모든 탄약 속사",
+        "full_auto": "모든 탄약 연사"
     },
     "heavy_bowgun": {
         "title": "헤비 보우건",
@@ -268,7 +273,7 @@
         "no_recoil": "반동 없음",
         "no_knockback": "움찔 없음",
         "shell_level": "탄 레벨",
-        "full_auto": "Full auto (*)"
+        "full_auto": "모든 탄약 연사"
     },
     "charge_blade": {
         "title": "차지 액스",
@@ -285,5 +290,7 @@
         "powered_axe": "고출력 상태"
     }
 }
+
+
 
 
